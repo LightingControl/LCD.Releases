@@ -2,7 +2,7 @@
 
 [![Latest drop](https://img.shields.io/github/v/release/LightingControl/LCD.Releases?sort=date&label=latest%20drop&style=for-the-badge&logo=github&color=0969da)](https://github.com/LightingControl/LCD.Releases/releases/latest)
 [![Driver status](https://img.shields.io/badge/driver%20status-latest%20releases-0969da?style=for-the-badge)](https://lightingcontrol.github.io/LCD.DriverStatus/)
-[![Service status](https://img.shields.io/badge/service%20status-uptime%20page-0969da?style=for-the-badge)](https://lightingcontrol.github.io/LCD_Uptime/)
+[![Service status](https://img.shields.io/badge/service%20status-uptime%20page-0969da?style=for-the-badge)](https://status.lcd.network/)
 [![Docs](https://img.shields.io/badge/docs-lcd.network-0969da?style=for-the-badge)](https://lcd.network/)
 
 Each release here is one drop sent to the Crestron drivers team: a single `YYYY-MM-DD.zip` holding every
@@ -32,7 +32,7 @@ Versions below are read live from each driver's published release data.
 - [All drops](https://github.com/LightingControl/LCD.Releases/releases)
 - [Driver status](https://lightingcontrol.github.io/LCD.DriverStatus/): the latest release of each driver and whether Crestron lists it yet
 - [V1 driver status](https://lightingcontrol.github.io/LCD.DriverStatus/legacy-drivers.html): the older driver range, with downloads
-- [Service status](https://lightingcontrol.github.io/LCD_Uptime/): uptime of the LCD online services
+- [Service status](https://status.lcd.network/): uptime of the LCD online services
 - [Documentation](https://lcd.network/)
 - [Driver downloads and side-loading](https://lcd.network/driver-downloads/)
 - [Crestron driver catalogue](https://drivers.crestron.io/)
